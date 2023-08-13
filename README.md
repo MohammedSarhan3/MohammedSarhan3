@@ -1,4 +1,4 @@
-## [Mohammed Wael Sarhan]
+# Mohammed Wael Sarhan
 
 Backend Developer | Python | Django
 
